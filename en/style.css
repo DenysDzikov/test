@@ -86,7 +86,7 @@ img.header-logo{
 }
 .s-one {
     color: #fff;
-    background: url(/img/img1.png) ;
+    background: url(img/img1.png) ;
 }
 .s-two {
     color: #fff;
@@ -94,7 +94,7 @@ img.header-logo{
 }
 .s-three {
     color: #fff;
-    background: url(/img/img3.png);
+    background: url(img/img3.png);
 }
 
 .scroll-control {
@@ -226,7 +226,7 @@ img.header-logo{
 }
 @media (min-height: 1120px) {
   .blc.blc1{
-    background: url(/img/img2.png);
+    background: url(img/img2.png);
     background-size: cover;
     background-position: center;
   }
