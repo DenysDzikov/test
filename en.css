@@ -86,7 +86,7 @@ img.header-logo{
 }
 .s-one {
     color: #fff;
-    background: url(/img/img1.png) ;
+    background: url(img/img1.png) ;
 }
 .s-two {
     color: #fff;
@@ -94,7 +94,7 @@ img.header-logo{
 }
 .s-three {
     color: #fff;
-    background: url(/img/img3.png);
+    background: url(img/img3.png);
 }
 
 .scroll-control {
@@ -367,7 +367,7 @@ img.header-logo{
   .blc.blc3{
     color: #ffffff;
     text-decoration:none;
-    background: url(/img/img4.png);
+    background: url(img/img4.png);
     /* filter: blur(2px); 
     -webkit-filter: blur(2px);
     -webkit-transition: .3s ease-in-out;
