@@ -104,7 +104,7 @@ img.header-logo{
 }
 .s-one {
     color: #fff;
-    background: url(/img/img1.jpg) ;
+    background: url(https://denysdzikov.github.io/test/img/img1.jpg) ;
 }
 .s-two {
     color: #fff;
@@ -112,7 +112,7 @@ img.header-logo{
 }
 .s-three {
     color: #fff;
-    background: url(/img/img3.png);
+    background: url(https://denysdzikov.github.io/test/img/img5.jpg);
 }
 .menu-line{
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
@@ -265,7 +265,7 @@ img.header-logo{
 }
 @media (min-height: 1120px) {
   .blc.blc1{
-    background: url(/img/img2.png);
+    background: url(https://denysdzikov.github.io/test/img/img2.png);
     background-size: cover;
     background-position: center;
   }
@@ -398,7 +398,7 @@ img.header-logo{
   .blc.blc1{
     color: #ffffff;
     text-decoration:none;
-    background: url(/img/img2.png);
+    background: url(https://denysdzikov.github.io/test/img/img2.png);
     background-size: cover;
     background-position: center;
   }
@@ -408,14 +408,14 @@ img.header-logo{
   .blc.blc2{
     color: #ffffff;
     text-decoration:none;
-    background: url(/img/img3.png);
+    background: url(https://denysdzikov.github.io/test/img/img3.png);
     background-size: cover;
     background-position: center;
   }
   .blc.blc3{
     color: #ffffff;
     text-decoration:none;
-    background: url(/img/img4.jpg);
+    background: url(https://denysdzikov.github.io/test/img/img4.jpg);
     /* filter: blur(2px); 
     -webkit-filter: blur(2px);
     -webkit-transition: .3s ease-in-out;
@@ -516,7 +516,7 @@ img.header-logo{
     gap: 0;
     height: 100%;
     width: 555px;
-    background-color: #281c0b;
+    background-color: #1a1a1a;
     overflow: auto;
     left: 100%;
   }
